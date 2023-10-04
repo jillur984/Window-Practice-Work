@@ -1,6 +1,8 @@
-#Function Big number
+-[Function Type](#Function Type)
 
 
+- #### Function Practice
+```js
 function getBigNumber(){
 
     const a=10;
