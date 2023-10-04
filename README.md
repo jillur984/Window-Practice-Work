@@ -1,4 +1,5 @@
-- [Function](#Function Type)
+- [Function]
+- (#Function Type)
 
 
 - #### Function Practice
