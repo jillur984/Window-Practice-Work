@@ -1,6 +1,14 @@
-# Window-Practice-Work
+function getBigNumber(){
 
-let a=10;
-let b=20;
+    const a=10;
+    const b=20;
+    
+     if(a>b){
+     console.log("A is Small")
+    }
+    else{
+       console.log("A is Big")
+    }
+}
 
-console.log(a+b)
+getBigNumber()
