@@ -37,3 +37,13 @@ let jillur=test=()=>{
 }
 
 console.log(test())
+
+
+
+
+-#### Anonymous Function-When a Function have no Argument and Parametar we can called it Anonymous Function
+let show = function() {
+    console.log('Anonymous function');
+};
+
+show();
