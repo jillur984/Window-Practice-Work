@@ -20,7 +20,9 @@ function getBigNumber(){
 getBigNumber()
 ..............................
 
- - #### Case Sensitive in JS
+ - [Function Case Sensitive]
+
+- #### Function Case Sensitive Practise
 ```js
 
 function jillur(){
@@ -30,7 +32,7 @@ function jillur(){
 Jillur() // Not Work Due to Case Sensitive
 
 
--####Arrow Function
+- [Arrow Function]
 
 let jillur=test=()=>{
   return console.log("this is Arrow Function")
@@ -42,6 +44,8 @@ console.log(test())
 
 
 -#### Anonymous Function-When a Function have no Argument and Parametar we can called it Anonymous Function
+
+
 let show = function() {
     console.log('Anonymous function');
 };
