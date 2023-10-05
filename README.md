@@ -28,3 +28,12 @@ function jillur(){
 }
 
 Jillur() // Not Work Due to Case Sensitive
+
+
+-####Arrow Function
+
+let jillur=test=()=>{
+  return console.log("this is Arrow Function")
+}
+
+console.log(test())
