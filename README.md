@@ -1,6 +1,6 @@
 - [Function]
-- (#Function Type)
 
+Function is a Specific Block and We can do specific task by Using Function and Where we need Reuse,We can also reduce function by Function calling.
 
 - #### Function Practice
 ```js
@@ -18,3 +18,13 @@ function getBigNumber(){
 }
 
 getBigNumber()
+..............................
+
+ - #### Case Sensitive in JS
+```js
+
+function jillur(){
+    return console.log("Hello")
+}
+
+Jillur() // Not Work Due to Case Sensitive
