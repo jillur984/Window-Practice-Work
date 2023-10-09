@@ -123,6 +123,28 @@ console.log(numbers.includes(1)) // true
 
 console.log(numbers.includes(6)) // false
 
+```
+### [Callback Function]
+```js
+function name(a,b){
+
+   console.log("I am "  + a)
+
+   jillur()
+ 
+}
+
+function jillur(){
+
+    console.log("I am a good boy")
+
+}
+
+const result=name('imon' ,jillur)
+
+console.log(result) // Result Will be: I am Imon
+ I am a good boy
+
   
   
 
