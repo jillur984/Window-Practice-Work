@@ -76,7 +76,7 @@ console.log('Number of Fruits:'fruits.length) // Show Fruits Length
 
 ````
 
-- [Createing a Array Using Split]
+### [Createing a Array Using Split]
 - ```js
 
   let country="Bangladesh"
@@ -85,7 +85,8 @@ console.log('Number of Fruits:'fruits.length) // Show Fruits Length
   
   ```
 
-  - [Modifying Array Element]
+  ### [Modifying Array Element]
+  ```js
  
   const numbers = [1, 2, 3, 4, 5]
   
@@ -94,6 +95,34 @@ numbers[0] = 10      // changing 1 at index 0 to 10
 numbers[1] = 20      // changing  2 at index 1 to 20
 
 console.log(numbers) // Result Will be [10, 20, 3, 4, 5]
+
+``
+
+### [Concate an Array]
+```js
+
+const a=[1,2,3]
+
+const b=[4,5,6]
+
+const c=a.concat(b)
+
+console.log(c)  // result will be:['1','2','3','4','5','6']
+```
+
+### [Array Include Method]
+```js
+
+- const numbers = [1, 2, 3, 4, 5]
+
+console.log(numbers.includes(5)) // true
+
+console.log(numbers.includes(0)) // false
+
+console.log(numbers.includes(1)) // true
+
+console.log(numbers.includes(6)) // false
+
   
   
 
