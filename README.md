@@ -56,6 +56,30 @@ show();
 
 - [Array in Programming]
 
+Array is a Object that Can Store Multiple at Once.
+
+### Constructor
+```js
+const arr=Array()
+
+console.log(arr) // it console Array Contructor
+````
+
+### how to create a Array with Values
+```js
+
+const numbers = [2,4,6,8] // array of numbers
+const fruits = ['Mango','Pine-Apple'] // array of strings, fruits
+
+console.log('Numbers:'numbers.length)  // Show Number Length
+console.log('Number of Fruits:'fruits.length) // Show Fruits Length
+
+````
+
+- [Createing a Array Using Split]
+
+
+
 
 
 
