@@ -54,14 +54,14 @@ show();
 ````
 
 
--[Array in Programming Lanuage]
 
 
 
 
 
 
--[Array in Programming Language]
+
+- [Array in Programming Language]
 
 
 
