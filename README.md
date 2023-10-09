@@ -18,11 +18,11 @@ function getBigNumber(){
 }
 
 getBigNumber()
-..............................
 
- - [Function Case Sensitive]
+```
 
-- #### Function Case Sensitive Practise
+### Function Case Sensitive Practise
+
 ```js
 
 function jillur(){
@@ -40,14 +40,29 @@ let jillur=test=()=>{
 
 console.log(test())
 
+```
 
+- Anonymous Function-When a Function have no Argument and Parametar we can called it Anonymous Function
 
-
--#### Anonymous Function-When a Function have no Argument and Parametar we can called it Anonymous Function
-
+```JS
 
 let show = function() {
     console.log('Anonymous function');
 };
 
 show();
+````
+
+
+-[Array in Programming Lanuage]
+
+
+
+
+
+
+-[Array in Programming Language]
+
+
+
+
