@@ -143,7 +143,7 @@ function jillur(){
 const result=name('imon' ,jillur)
 
 console.log(result) // Result Will be: I am Imon
- I am a good boy
+// I am a good boy
 
   
   
