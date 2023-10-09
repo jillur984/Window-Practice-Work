@@ -78,6 +78,13 @@ console.log('Number of Fruits:'fruits.length) // Show Fruits Length
 
 - [Createing a Array Using Split]
 
+  let country="Bangladesh"
+
+  console.log(country.split('')); // Result will be ['B','A','N','G','L','A','D','E','S','H']
+  
+  ````
+  
+
 
 
 
