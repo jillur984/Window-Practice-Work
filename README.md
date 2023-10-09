@@ -77,12 +77,24 @@ console.log('Number of Fruits:'fruits.length) // Show Fruits Length
 ````
 
 - [Createing a Array Using Split]
+- ```js
 
   let country="Bangladesh"
 
-  console.log(country.split('')); // Result will be ['B','A','N','G','L','A','D','E','S','H']
+  console.log(country.split(''));  // Result will be ['B','A','N','G','L','A','D','E','S','H']
   
-  ````
+  ```
+
+  - [Modifying Array Element]
+ 
+  const numbers = [1, 2, 3, 4, 5]
+  
+numbers[0] = 10      // changing 1 at index 0 to 10
+
+numbers[1] = 20      // changing  2 at index 1 to 20
+
+console.log(numbers) // Result Will be [10, 20, 3, 4, 5]
+  
   
 
 
